@@ -1,8 +1,8 @@
-### hi my name is erik. i love watermelons. 🍉
+### Hi my name is Erik (⌒‿⌒) . I love watermelons. 🍉 
 
-Цицерон был убежден, что человеческий разум необходимо возделывать подобно тому, как земледелец обрабатывает почву.
+***Цицерон был убежден, что человеческий разум необходимо возделывать подобно тому, как земледелец обрабатывает почву.***
 
-Я ухаживаю за грядкой цифровых арбузов, замечая, сколько можно узнать из выращивания чего-либо.
+***Я ухаживаю за грядкой цифровых арбузов, замечая, сколько можно узнать из выращивания чего-либо.***
 
 ### Top Technologies
 
@@ -11,6 +11,9 @@
 ### I can also work with:
 
 <img src="https://img.shields.io/badge/React Router-aabbf1?style=for-the-badge&logo=React Router&logoColor=c43644" /> <img src="https://img.shields.io/badge/Sass-aabbf1?style=for-the-badge&logo=Sass&logoColor=c43644" /> 
+
+### OS:
+<img src="https://img.shields.io/badge/Ubuntu-aabbf1?style=for-the-badge&logo=Ubuntu&logoColor=c43644" /> <img src="https://img.shields.io/badge/Windows-aabbf1?style=for-the-badge&logo=Windows&logoColor=c43644" />
 
 - 🍉 I'm currently learning:
 
