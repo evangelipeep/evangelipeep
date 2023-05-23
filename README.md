@@ -1,24 +1,34 @@
-### (⌒‿⌒) Hi my name is Eric. 🍉 
+# Привет, мир! Я - разработчик фронтенда!
 
-***Цицерон был убежден, что человеческий разум необходимо возделывать подобно тому, как земледелец обрабатывает почву.***
+<img width="48" height="48" src="https://img.icons8.com/material-outlined/48/attack-on-titan.png" alt="attack-on-titan"/>
 
-***Я ухаживаю за грядкой цифровых арбузов, замечая, сколько можно узнать из выращивания чего-либо.***
+> "Я решительно стремлюсь овладеть всеми фронтенд технологиями. Моя сила воли непоколебима. Я изучу их все, до единой!" - Эрен Йегер
 
-### Top Technologies
+Привет! Меня зовут Эрик, и я разработчик фронтенда с огромным энтузиазмом и решимостью. Я решил изучить все фронтенд технологии до мельчайших деталей, и ничто не сможет меня остановить. Моя сила воли будет двигателем моих достижений.
 
-<img src="https://img.shields.io/badge/React-aabbf1?style=for-the-badge&logo=React&logoColor=c43644" /> <img src="https://img.shields.io/badge/TypeScript-aabbf1?style=for-the-badge&logo=TypeScript&logoColor=c43644" /> <img src="https://img.shields.io/badge/Tailwind CSS-aabbf1?style=for-the-badge&logo=Tailwind CSS&logoColor=c43644" /> <img src="https://img.shields.io/badge/Framer-aabbf1?style=for-the-badge&logo=Framer&logoColor=c43644" /> <img src="https://img.shields.io/badge/HTML5-aabbf1?style=for-the-badge&logo=HTML5&logoColor=c43644" /> <img src="https://img.shields.io/badge/CSS3-aabbf1?style=for-the-badge&logo=CSS3&logoColor=c43644" /> <img src="https://img.shields.io/badge/JavaScript-aabbf1?style=for-the-badge&logo=JavaScript&logoColor=c43644" /> 
+## О мне
 
-### I can also work with:
+Я являюсь фронтенд разработчиком, специализирующимся на создании интерактивных пользовательских интерфейсов. Мой стек технологий включает TypeScript и React, и я продолжаю расширять свои знания и навыки в этих областях.
 
-<img src="https://img.shields.io/badge/React Router-aabbf1?style=for-the-badge&logo=React Router&logoColor=c43644" /> <img src="https://img.shields.io/badge/Sass-aabbf1?style=for-the-badge&logo=Sass&logoColor=c43644" /> 
+### Мои навыки
 
-### OS:
-<img src="https://img.shields.io/badge/Ubuntu-aabbf1?style=for-the-badge&logo=Ubuntu&logoColor=c43644" /> <img src="https://img.shields.io/badge/Windows-aabbf1?style=for-the-badge&logo=Windows&logoColor=c43644" />
+<img src="https://img.shields.io/badge/React-b17738?style=for-the-badge&logo=React&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/TypeScript-b17738?style=for-the-badge&logo=TypeScript&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/Tailwind CSS-b17738?style=for-the-badge&logo=Tailwind CSS&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/Framer-b17738?style=for-the-badge&logo=Framer&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/HTML5-b17738?style=for-the-badge&logo=HTML5&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/CSS3-b17738?style=for-the-badge&logo=CSS3&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/JavaScript-b17738?style=for-the-badge&logo=JavaScript&logoColor=03b9cf" /> 
 
-- 🍉 I'm currently learning:
+### Также знаком с:
 
-<img src="https://img.shields.io/badge/Docker-aabbf1?style=for-the-badge&logo=Docker&logoColor=c43644" /> <img src="https://img.shields.io/badge/NestJS-aabbf1?style=for-the-badge&logo=NestJS&logoColor=c43644" /> <img src="https://img.shields.io/badge/MongoDB-aabbf1?style=for-the-badge&logo=MongoDB&logoColor=c43644" />
-- 🍉 I'm looking for help with looking for light for my garden.
-- 🍉 Ask me about the quantum structure of a watermelon.
-- 🍉 How to reach me: evangelipeep@gmail.com
-- 🍉 Fun fact: Watermelon is 92% water.
+<img src="https://img.shields.io/badge/React Router-b17738?style=for-the-badge&logo=React Router&logoColor=00272c" /> <img src="https://img.shields.io/badge/Sass-b17738?style=for-the-badge&logo=Sass&logoColor=00272c" />
+<img src="https://img.shields.io/badge/Docker-b17738?style=for-the-badge&logo=Docker&logoColor=00272c" /> <img src="https://img.shields.io/badge/NestJS-b17738?style=for-the-badge&logo=NestJS&logoColor=00272c" /> <img src="https://img.shields.io/badge/MongoDB-b17738?style=for-the-badge&logo=MongoDB&logoColor=00272c" />
+
+Я постоянно изучаю новые технологии и стараюсь применять их в своих проектах, чтобы достичь наилучших результатов.
+
+## Связь
+
+Если вы хотите связаться со мной, не стесняйтесь! Я всегда открыт к общению и сотрудничеству. Вы можете найти меня на следующих платформах:
+
+- Email: evangelipeep@gmail.com
+
+## Благодарность
+
+Спасибо, что ознакомились с моим README-файлом. Я уверен, что моя сила воли поможет мне достичь больших высот в разработке фронтенда. Вместе мы можем создавать потрясающие проекты и вносить вклад в развитие технологий. Давайте работать вместе и стремиться к совершенству!
+
+---
