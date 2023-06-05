@@ -12,11 +12,11 @@
 
 ### Мои навыки
 
-<img src="https://img.shields.io/badge/React-b17738?style=for-the-badge&logo=React&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/TypeScript-b17738?style=for-the-badge&logo=TypeScript&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/Tailwind CSS-b17738?style=for-the-badge&logo=Tailwind CSS&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/Framer-b17738?style=for-the-badge&logo=Framer&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/HTML5-b17738?style=for-the-badge&logo=HTML5&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/CSS3-b17738?style=for-the-badge&logo=CSS3&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/JavaScript-b17738?style=for-the-badge&logo=JavaScript&logoColor=03b9cf" /> 
+<img src="https://img.shields.io/badge/React-b17738?style=for-the-badge&logo=React&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/TypeScript-b17738?style=for-the-badge&logo=TypeScript&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/Tailwind CSS-b17738?style=for-the-badge&logo=Tailwind CSS&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/Framer-b17738?style=for-the-badge&logo=Framer&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/HTML5-b17738?style=for-the-badge&logo=HTML5&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/CSS3-b17738?style=for-the-badge&logo=CSS3&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/JavaScript-b17738?style=for-the-badge&logo=JavaScript&logoColor=03b9cf" /> <img src="https://img.shields.io/badge/React Router-b17738?style=for-the-badge&logo=React Router&logoColor=03b9cf" />
 
 ### Также знаком с:
-
-<img src="https://img.shields.io/badge/React Router-b17738?style=for-the-badge&logo=React Router&logoColor=00272c" /> <img src="https://img.shields.io/badge/Sass-b17738?style=for-the-badge&logo=Sass&logoColor=00272c" />
+<img src="https://img.shields.io/badge/Material UI-b17738?style=for-the-badge&logo=MUI&logoColor=00272c" />
+ <img src="https://img.shields.io/badge/Sass-b17738?style=for-the-badge&logo=Sass&logoColor=00272c" />
 <img src="https://img.shields.io/badge/Docker-b17738?style=for-the-badge&logo=Docker&logoColor=00272c" /> <img src="https://img.shields.io/badge/NestJS-b17738?style=for-the-badge&logo=NestJS&logoColor=00272c" /> <img src="https://img.shields.io/badge/MongoDB-b17738?style=for-the-badge&logo=MongoDB&logoColor=00272c" />
 
 Я постоянно изучаю новые технологии и стараюсь применять их в своих проектах, чтобы достичь наилучших результатов.
